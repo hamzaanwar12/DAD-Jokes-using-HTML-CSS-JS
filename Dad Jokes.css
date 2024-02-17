@@ -1,0 +1,55 @@
+*{
+    font-size: 17px;
+    font-family: cursive;
+}
+body{
+    background-color:cornflowerblue;
+    align-items:center;
+}
+
+.container{
+    background-color: whitesmoke;
+    width: 70%;
+    height: 20rem;
+    margin: auto;
+    margin-top: 7rem;
+    border: none;
+    border-radius: 1.75rem;
+}
+
+h1.start{
+    width: 50%;
+    margin: auto;
+    position: relative;
+    top: 2rem;
+    margin-bottom: 3rem;
+    text-align: center;
+    display: block;
+    color: #00000075;
+}
+h1{
+    text-align: center;
+}
+
+button{
+    background-color: blueviolet;
+    color: whitesmoke;
+    width: 11rem;
+    height: 3rem;
+    margin-left: 30rem;
+    border: none;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgba(0, 0, 0, 0.267);
+    color: blueviolet;
+}
+
+#Joke{
+    color:blueviolet;
+    font-size: 21px;
+    height: 6rem;
+    width: 100%;
+    margin-top: 5rem;
+}
